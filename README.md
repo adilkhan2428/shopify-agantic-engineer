@@ -1,7 +1,7 @@
 # Shopify Automation Systems
 
-> Production-grade automation for e-commerce stores.
-> Built with Python, n8n, FastAPI, PostgreSQL, Shopify API.
+AI-powered back-office systems for Shopify Plus merchants — fraud detection,
+inventory sync, returns automation, support agents
 
 ---
 
